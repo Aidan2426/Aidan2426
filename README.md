@@ -1,22 +1,22 @@
-# Hey 👋 I'm Aidan Ash
+# Hey I'm Aidan Ash
 
 **Data Scientist & CS Student** · Pittsburgh, PA & Chicago, IL
 
 I'm a Computer Science and Data Science student at **Illinois Institute of Technology** (B.S. CS + M.A.S. DS, Class of '27), with a 3.5 GPA and Dean's List honors. I'm passionate about building things — from databases and operating systems to games and wearable hardware.
 
-📍 Incoming **IT Intern @ Arconic** (Summer 2026)
+Incoming **IT Intern @ Arconic** (Summer 2026)
 
 ---
 
-## 🚀 What I'm Up To
+## What I'm Up To
 
-- 🔧 Building **[Ashburn Watch](https://ashburn-puce.vercel.app/)** — an Arduino-based custom step tracker wearable
-- 🎮 Just shipped **[Heather](https://cash-interactive.itch.io/heather)** — a 2D indie game built in 48 hours for a game jam
-- 📚 Studying Big Data Technologies, Operating Systems & Database Organization at IIT
+- Building **[Ashburn Watch](https://ashburn-puce.vercel.app/)** — an Arduino-based custom step tracker wearable
+- Just shipped **[Heather](https://cash-interactive.itch.io/heather)** — a 2D indie game built in 48 hours for a game jam
+- Studying Big Data Technologies, Operating Systems & Database Organization at IIT
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Arconic Corporation** · IT Intern *(Summer 2026)*
 > Deploying ServiceNow ITSM, automating Active Directory with PowerShell & JavaScript, and collaborating with Corporate IT Security
@@ -26,7 +26,7 @@ I'm a Computer Science and Data Science student at **Illinois Institute of Techn
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:**
 
@@ -52,7 +52,7 @@ I'm a Computer Science and Data Science student at **Illinois Institute of Techn
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aidan2426&show_icons=true&theme=dark&hide_border=true" height="160"/>
@@ -61,7 +61,7 @@ I'm a Computer Science and Data Science student at **Illinois Institute of Techn
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aidan2426.github.io/aidanash/index.html)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aash3@hawk.illinoistech.edu)
