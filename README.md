@@ -50,14 +50,6 @@ Incoming **IT Intern @ Arconic** (Summer 2026)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Jamf](https://img.shields.io/badge/Jamf-000000?style=for-the-badge&logo=jamf&logoColor=white)
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aidan2426&show_icons=true&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aidan2426&layout=compact&theme=dark&hide_border=true" height="160"/>
-</p>
 
 ---
 
