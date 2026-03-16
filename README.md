@@ -54,7 +54,7 @@ Incoming **IT Intern @ Arconic** (Summer 2026)
 ---
 
 ## Connect with Me
-
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aidan-ash)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aidan2426.github.io/aidanash/index.html)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aash3@hawk.illinoistech.edu)
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://cash-interactive.itch.io)
